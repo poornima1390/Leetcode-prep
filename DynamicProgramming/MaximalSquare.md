@@ -5,3 +5,6 @@ dp[i][j] = Math.min(top, Math.min(left, dia)) + 1
 maxSide = Math.max(maxSide, dp[i][j])
 do this only when matrix[i - 1][j - 1] is 1
 return the area as maxSide * maxSide
+
+Time Complexity: O(n*m)
+Space Complexity: O(n*m)
