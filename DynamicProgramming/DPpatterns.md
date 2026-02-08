@@ -1,9 +1,16 @@
-Perfect — this is the **cheat sheet** you want before interviews.
+The 10-Second DP Checklist (Memorize This)
 
-Below is a **DP Pattern Table** that covers **~90% of LeetCode + interview DP problems**.
-I’ve organized it the way your brain should recall it under pressure.
+Before coding, mentally answer:
 
----
+What am I optimizing / counting / deciding?
+
+What is the DP state?
+
+What is the transition?
+
+What is the base case?
+
+Does loop order matter here?
 
 # 🧠 Dynamic Programming Pattern Table (Interview Mastery)
 
